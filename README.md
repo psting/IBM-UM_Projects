@@ -2,12 +2,16 @@
 Joint-effort projects (IBM / University of Michigan)
 
 
+
+
 # AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks
 
 Paper: https://arxiv.org/abs/1805.11770
 
 Code:
 AutoZOOM has been integrated in and moved to the IBM repo at https://github.com/IBM/Autozoom-Attack
+
+
 
 
 # Explanations based on the Missing: Towards Contrastive Explanations with Pertinent Negatives
