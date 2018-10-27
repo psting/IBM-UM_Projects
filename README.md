@@ -23,3 +23,11 @@ CEM (Contrastive Explanation Method) has been integrated in and moved to the IBM
 
 
 
+&nbsp;
+&nbsp;
+# Zeroth-Order Stochastic Variance Reduction for Nonconvex Optimization
+
+Paper: https://arxiv.org/abs/1805.10367
+
+Code:
+ZOSVRG for Attacking Neural Networks under the Black-box Setting has been integrated in and moved to the IBM repo at https://github.com/IBM/ZOSVRG-BlackBox-Adv
